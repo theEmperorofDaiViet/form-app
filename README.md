@@ -68,10 +68,22 @@ As usual, the app should automatically open in a new tab in your browser. It run
 
 We will use different ways of managing data:
 - <code>v1.0.0</code>: using only component's <code>data()</code>
+- <code>v2.0.0</code>: using <b>Vuex</b>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Usage
+
+<p align="center">
+    <img src="public/images/examples/example-1.png" width="1050">
+    <img src="public/images/examples/example-2.jpeg" width="1050">
+    <img src="public/images/examples/example-3.jpeg" width="1050">
+    <img src="public/images/examples/example-4.jpeg" width="1050">
+    <img src="public/images/examples/example-5.jpeg" width="1050">
+    <img src="public/images/examples/example-6.png" width="1050">
+    <img src="public/images/examples/example-7.jpeg" width="1050">
+    <img src="public/images/examples/example-8.jpeg" width="1050">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

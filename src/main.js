@@ -137,7 +137,7 @@ const InputForm = {
             return errors;
         },
         isEmail(email){
-            const re = /\S+@\S+.\S+/;
+            const re = /\S+@\S+\.\S+/;
             return re.test(email);
         }
     },
